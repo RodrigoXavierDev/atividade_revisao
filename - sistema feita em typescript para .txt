@@ -1,0 +1,12 @@
+- sistema feita em typescript para uma empresa com finalidade de auxiliar a administração.
+
+- classe funcionario contem alguns atributos para identificação do funcionaro com atenção para o atributo genero que é um atributo opcional.
+- logo apos vem o metodo mostrarDados que imprime na tela todos os valores declarados na classe.
+
+- classe funcionario contem um atributo que é opcional e um array ao mesmo tempo caso haja funcionarios trabalhando na tarefa alem do responsavel.
+
+- classe funcionario possui um atributo em array que serve para atribuir varios funcionarios trabalhando em um só projeto.
+
+- classe equipe possui 3 atributos em forma de array para ajudar a empresa à administrar em quais projetos e tarefas estao ligadasa cada equipe e quais funcionarios estao ligados nessa equipe
+
+- no final do codigo há 4 consts para declarar um exemplo de cada classe com um atributo de cada classe para visualizar como cada um ficaria
